@@ -1,5 +1,10 @@
 header {
     font-family: 'Bangers';
     text-align: center;
-    font-size: xx-large
+    font-size: xx-large;
+    
 }
+h1 {
+    font-family: 'Fjalla One';
+    text-align: center;
+   font-size: medium;
